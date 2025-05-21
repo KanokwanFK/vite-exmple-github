@@ -1,0 +1,43 @@
+.hi{
+    display: flex;
+   /* flex-wrap: wrap;*/
+    width: 100px;
+    justify-content: space-around;
+
+}
+
+.id{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.desc {
+    padding: 1px;
+    text-align: center;
+  }
+
+.desc1 {
+    padding: 1px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.pola {
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 0.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.container {
+    text-align: center;
+    padding:  2px;
+}
+
+.con{
+    font-size: 14px;
+}

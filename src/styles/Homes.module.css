@@ -1,0 +1,69 @@
+.body{
+    display: flex;
+    padding: 2px;
+    height: 100vh;
+    flex-direction: column;
+    
+}
+
+.h1{
+   /* background-color:rgba(37, 119, 37, 0.744);*/
+    align-self:center ;
+    font-size: 30px;
+    gap: 10px;
+    padding: 2px;
+    flex-direction: column;
+}
+
+.c1{
+    background-color: white;
+    padding: 2px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.c2{
+    background-color: white;
+    text-align: start;
+    font-size: 30px;
+    padding: 2px;
+}
+
+.photo {
+    display: flex;
+    flex: 1;
+    border-radius: 15px;
+    justify-items: center;
+    max-width: 100%;
+    height: auto;
+}
+
+.titel{
+    text-align: center;
+    font-size: 26px;
+    color: rgb(2, 57, 3);
+}
+
+.mgi{
+    display: flex;
+    justify-content: space-around; 
+    gap: 19px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.button {
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 99px;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 20px
+  }
+
+.icon{
+    display: flex;
+    gap: 130px;
+}

@@ -1,0 +1,45 @@
+.Bp{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: 1px;
+    padding: 5px;
+}
+
+.sm{
+    display: flex;
+    background: url(https://i.pinimg.com/736x/2f/71/4e/2f714e5493e3f962963958ce3c7e091f.jpg) ;
+    padding: 2px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.rg{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+}
+
+.h1{
+    font-size: 30px;
+    margin: 5px;
+}
+
+.gd{
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+}
+
+.icon{
+    display: flex;
+    gap: 800px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+

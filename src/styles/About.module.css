@@ -1,0 +1,25 @@
+.body{
+    display: flex;
+    padding: 2px;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.back{
+    border-radius: 5px;
+}
+
+.cen1{
+    padding: 2px;
+
+}
+
+.ic{
+    display: flex;
+    padding: 2px;
+    justify-content: space-around;
+}
+
+.img{
+    border-radius: 5px;
+}

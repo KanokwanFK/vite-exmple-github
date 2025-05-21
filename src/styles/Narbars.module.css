@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    /*background-color: green;*/
+    background-image: linear-gradient(to right,green,violet);
+    justify-content: center;
+    padding: 2px;
+    text-align: center;
+    font-size: 30px;
+    gap: 50px; /* ระะห่างระหว่างช่องข้อความ */
+
+}
+
+.title  {
+    color: white;
+    text-decoration: none;
+}

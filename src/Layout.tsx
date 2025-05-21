@@ -1,4 +1,4 @@
-import { Outlet, Link } from "react-router";
+import { Outlet } from "react-router";
 import Narbars from "./components/Narbars";
 
 function LayoutApp (){

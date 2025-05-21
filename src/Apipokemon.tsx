@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
-import axios, {AxiosResponse} from "axios"
-import { useGetAllPokemonQuery } from "./Service/PokemonService"
+import axios from "axios"
+//import { useGetAllPokemonQuery } from "./Service/PokemonService"
 //import { data } from "react-router"
 
 const Apipokemon = () =>{

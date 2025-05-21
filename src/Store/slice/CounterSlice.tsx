@@ -1,4 +1,4 @@
-import { createSlice, Action, PayloadAction } from "@reduxjs/toolkit";
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 const counterSlice = createSlice({
     name: "counter",

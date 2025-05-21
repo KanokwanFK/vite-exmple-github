@@ -19,9 +19,9 @@ function App() {
   const [name, setName] = useState<string>("");
 
 
-  const onChange = (data: string) => {
-    setName(data);
-  };
+  // const onChange = (data: string) => {
+  //   setName(data);
+  // };
 
   const devRef = useRef<HTMLDivElement>(null);
   const devRef2 = useRef<HTMLDivElement>(null);

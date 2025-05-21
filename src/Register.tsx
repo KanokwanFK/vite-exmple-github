@@ -1,11 +1,11 @@
 import { Card } from "antd";
 import styles from "./styles/Register.module.css"
 import {Button,Form,Input,Select,Radio} from 'antd';
-import { useDispatch } from "react-redux";
+//import { useDispatch } from "react-redux";
   
 function Register (){
-    const [form] = Form.useForm();
-    const variant = Form.useWatch('variant', form);
+   // const [form] = Form.useForm();
+    //const variant = Form.useWatch('variant', form);
     
     const {Option} = Select;
     const prefixSelector = (

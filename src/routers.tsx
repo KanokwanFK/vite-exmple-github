@@ -39,6 +39,6 @@ const router = createBrowserRouter ([
         ]
     },
   
-],{basename:"/vite-exmple-github"})
+])
 
 export default router;

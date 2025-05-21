@@ -8,6 +8,6 @@ export default defineConfig({
   build: {
     outDir:"./docs"
   },
-  base:"./vite-exmple-github"
+  base:"./"
   //base: '/vite-t1',
 })

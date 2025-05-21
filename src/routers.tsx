@@ -9,7 +9,7 @@ import Apipokemon from "./Apipokemon";
 
 const router = createBrowserRouter ([
     {
-        path:'*', // no error next past
+        path:'/', // no error next past
         element:<LayoutApp/>,
         children:[
             {

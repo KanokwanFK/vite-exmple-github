@@ -4,7 +4,7 @@ import About from "./About";
 import LayoutApp from "./Layout";
 import Register from "./Register";
 import Froms from "./From";
-import TourismHome from "./Test/TourismHome";
+import TourismHome from "./Map/TourismHome";
 import Apipokemon from "./Apipokemon";
 
 const router = createBrowserRouter ([
